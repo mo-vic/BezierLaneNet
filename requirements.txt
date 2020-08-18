@@ -1,0 +1,8 @@
+tqdm
+numpy
+opencv-python
+Pillow
+scipy
+bezier
+matplotlib
+tensorboardX
